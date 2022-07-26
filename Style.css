@@ -1,0 +1,109 @@
+.navigation-wrap {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 30%);
+    background-color: #fff !important;
+    z-index: 1;
+}
+.main-img{
+    margin-bottom: 11.194833153928956vh;
+}
+.desc-text{
+    margin-bottom: 13.993541442411194vh;
+}
+.desc-text p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #626777;
+}
+.main-page{
+    margin-bottom: 10.54897739504844vh;
+}
+.items{
+    margin-bottom: 15.392895586652314vh;
+}
+.item-img{
+    border-radius: 16px;
+}
+.item-title{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    color: #282B36;
+    margin-bottom: 16px;
+}
+.item-desc{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #626777;
+    margin-bottom: 40px;
+}
+.item-action{
+    border-radius: 32px !important;
+    text-transform: uppercase;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 20px !important;
+    color: #282B36 !important;
+}
+.footer{
+    background: #F1F1F3;
+    padding-top: 6.996770721205597vh;
+    padding-bottom: 5.705059203444564vh;
+}
+.footer-logo{
+    margin-bottom: 24px;
+}
+.footer-a{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    color: #626777;
+    display: block;
+}
+    .footer-a span{
+        font-weight: 600;
+    }
+        .footer-a:hover{
+            text-decoration: none;
+            color:black
+        }
+.mr-20{
+    margin-right: 20px;
+}
+.copyright{
+    margin-top: 19px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #878B98;
+}
+@media (max-widtg:768px){
+    .mr-20{
+        margin-right: 10px;;
+    }
+}
+.img-logo-1{
+    height: 460px ;
+    width: 160px;
+}
+.button-a{
+    color: black;
+
+}
+@media (max-width:768px){
+    .mr-20{
+        margin-right: 10px;
+    }}
